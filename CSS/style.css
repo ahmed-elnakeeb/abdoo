@@ -1,0 +1,23 @@
+*{
+   color: green;
+   padding: 15px 15px 15px 15px;
+  } 
+
+  p{
+      color: black;
+
+  }
+
+  .red{
+      color: red;
+  }
+
+  .blue{
+      color: blue;
+  }
+
+  #firstline{
+
+      color: aqua;
+
+  }
