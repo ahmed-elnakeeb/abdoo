@@ -1,15 +1,24 @@
 *{
-   color: green;
-   padding: 15px 15px 15px 15px;
+   
   } 
 
   p{
-      color: black;
+     
 
   }
 
   .red{
       color: red;
+  }
+  .name {
+      color: darkblue;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  .username{
+      color: fuchsia;
+  }
+  .password{
+      color: lawngreen;
   }
 
   .blue{
